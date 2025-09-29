@@ -1,3 +1,3 @@
 # AtividadePWII-Clima
-Atividade em atualização, não foi finalizada ainda. Ultima atualização: 26/09 as 15h18
-Parei no Slide 23
+Atividade Finalizada. Ultima atualização: 29/09 as 12h15
+Parei no Slide 81 (Acabei)

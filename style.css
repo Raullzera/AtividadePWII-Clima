@@ -50,6 +50,7 @@ h1 {
 
 .resultado {
     text-align: center;
+    display: none;
     margin-bottom: 20px;
 }
 
